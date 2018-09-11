@@ -48,7 +48,6 @@ namespace Models {
             this._rX = rotationX;
             this._rY = rotationY;
             this._rZ = rotationZ;
-
             needsUpdate = true;
         }
 
